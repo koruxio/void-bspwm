@@ -1,0 +1,30 @@
+[org/xfce/mousepad/preferences/view]
+use-default-monospace-font=false
+font-name='Monospace 13'
+
+[org/gnome/gedit/plugins]
+active-plugins=['sort', 'docinfo', 'modelines', 'filebrowser', 'openlinks', 'spell']
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/plugins/filebrowser]
+tree-view=true
+root='file:///'
+virtual-root='file:///home/sarosx/void-bspwm/.config/sxhkd'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(898, 438)
+state=128
+
+[org/blueman/general]
+window-properties=[900, 1023, 1006, 43]
+
+[org/blueman/plugins/powermanager]
+auto-power-on=true
+
+[org/blueman/plugins/recentconns]
+recent-connections=[{'adapter': '44:AF:28:F7:85:77', 'address': 'E4:41:22:6C:C0:AC', 'alias': 'OnePlus Bullets Wireless Z', 'icon': 'audio-headset', 'name': 'Audio and input profiles', 'uuid': '00000000-0000-0000-0000-000000000000', 'time': '1661551394.4714687'}]

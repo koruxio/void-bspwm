@@ -1,0 +1,27 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-5T3QR1.desktop
+x-scheme-handler/http=userapp-Firefox-4MKKR1.desktop
+x-scheme-handler/https=userapp-Firefox-4MKKR1.desktop
+x-scheme-handler/chrome=userapp-Firefox-4MKKR1.desktop
+text/html=userapp-Firefox-4MKKR1.desktop
+application/x-extension-htm=userapp-Firefox-4MKKR1.desktop
+application/x-extension-html=userapp-Firefox-4MKKR1.desktop
+application/x-extension-shtml=userapp-Firefox-4MKKR1.desktop
+application/xhtml+xml=userapp-Firefox-4MKKR1.desktop
+application/x-extension-xhtml=userapp-Firefox-4MKKR1.desktop
+application/x-extension-xht=userapp-Firefox-4MKKR1.desktop
+image/png=org.gnome.eog.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-5T3QR1.desktop;
+x-scheme-handler/http=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+x-scheme-handler/https=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+x-scheme-handler/chrome=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+text/html=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+application/x-extension-htm=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+application/x-extension-html=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+application/x-extension-shtml=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+application/xhtml+xml=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+application/x-extension-xhtml=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+application/x-extension-xht=firefox.desktop;userapp-Firefox-4MKKR1.desktop;
+image/png=org.gnome.eog.desktop;
